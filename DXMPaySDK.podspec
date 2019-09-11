@@ -16,9 +16,9 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "DXMPaySDK"
-  spec.version      = "2.0.0.5"
+  spec.version      = "2.0.0.8"
   spec.summary      = "度小满支付SDK iOS版本"
-  spec.homepage     = "https://b.baifubao.com/static/spcenter/fe-wallet-open-platform/entry/develop-document/#/"
+  spec.homepage     = "https://b.dxmpay.com/static/spcenter/fe-wallet-open-platform/entry/develop-document/#"
   spec.license      = { :type => "Copyright", :text => "度小满科技(北京)有限公司  版权所有." }
 
 
